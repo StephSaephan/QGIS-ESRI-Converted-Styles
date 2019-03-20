@@ -1,0 +1,18 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols/>
+  <colorramps>
+    <colorramp name="Low Income to Low Moderate Income" type="gradient">
+      <prop v="0,0,255,255" k="color1"/>
+      <prop v="0,255,255,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="gradient" k="rampType"/>
+    </colorramp>
+    <colorramp name="Moderate to High Income" type="gradient">
+      <prop v="245,245,0,255" k="color1"/>
+      <prop v="255,0,0,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="gradient" k="rampType"/>
+    </colorramp>
+  </colorramps>
+</qgis_style>
