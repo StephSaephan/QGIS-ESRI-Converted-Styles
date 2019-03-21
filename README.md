@@ -5,7 +5,7 @@ QGIS XML styles converted from ESRI styles using Nyall Dawson's SLYR tool.
 For more info on SLYR Tool: https://github.com/nyalldawson/slyr
 
 Related blog post on using the SLYR tool to convert ESRI styles (e.g. ESRI.style) to QGIS XML files, see link below:
-
+https://opengislab.com/blog/2019/3/16/converting-esri-styles-to-qgis-styles-using-slyr
 
 FOLDER CONTENTS:
 XML folder contains the QGIS XML files which can be imoorted into QGIS Style Manager
