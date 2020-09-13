@@ -1,0 +1,515 @@
+[
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Meteorological.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Meteorological.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Meteorological"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military METOC.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military METOC.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military METOC"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Utilities.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Utilities.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Utilities"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Crime Analysis.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Crime Analysis.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Crime Analysis"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcScene Basic.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcScene Basic.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcScene Basic"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Ordnance Survey.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Ordnance Survey.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Ordnance Survey"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Mining.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Mining.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Mining"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Residential.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Residential.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Residential"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Business.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Business.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Business"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Equipment.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Equipment.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Equipment"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Geology 24K.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Geology 24K.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Geology 24K"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Special Operations Track.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Special Operations Track.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Special Operations Track"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Subsurface Track.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Subsurface Track.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Subsurface Track"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - IGL.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - IGL.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - IGL"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Hazmat.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Hazmat.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Hazmat"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Space Track.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Space Track.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Space Track"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Signals Intelligence.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Signals Intelligence.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Signals Intelligence"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Installations.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Installations.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Installations"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 Military Operations.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 Military Operations.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 Military Operations"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 200.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 200.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 200"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Survey.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Survey.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Survey"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Sea Surface Track.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Sea Surface Track.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Sea Surface Track"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Civic.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Civic.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Civic"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI-CAD.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI-CAD.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI-CAD"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Units.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Units.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Ground Track Units"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Win256.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Win256.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Win256"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Web216.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Web216.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Web216"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ERS Homeland Security.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ERS Homeland Security.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ERS Homeland Security"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Buildings.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Buildings.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Buildings"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military Emergency Management.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military Emergency Management.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Military Emergency Management"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Real Estate.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Real Estate.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Real Estate"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS195.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS195.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS195"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum UK.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum UK.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Petroleum UK"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Water Wastewater.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Water Wastewater.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Water Wastewater"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcGIS_Explorer.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcGIS_Explorer.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ArcGIS_Explorer"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Public Signs.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Public Signs.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Public Signs"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Soils EURO.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Soils EURO.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Soils EURO"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Dimension.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Dimension.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Dimension"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Transportation.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Transportation.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Transportation"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Billboards.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Billboards.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Billboards"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Environmental.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Environmental.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Environmental"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Vehicles.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Vehicles.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Vehicles"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 220.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 220.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - CADD GIS Center SDS 220"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Trees.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Trees.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Trees"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Forestry.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Forestry.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Forestry"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Weather.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Weather.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Weather"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - MSExp258.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - MSExp258.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - MSExp258"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Basic.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Basic.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Basic"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Stability Operations.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Stability Operations.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Stability Operations"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI_Optimized.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI_Optimized.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - ESRI_Optimized"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Street Furniture.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Street Furniture.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Street Furniture"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Industrial.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Industrial.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - 3D Industrial"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Conservation.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Conservation.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Conservation"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - Caves.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Caves.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - Caves"
+        }
+    },
+    {
+        "PARAMETERS": {
+            "INPUT": "'/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Air Track.style'"
+        },
+        "OUTPUTS": {
+            "OUTPUT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Air Track.xml",
+            "REPORT": "/home/USERNAME/ESRI/10.8.1/Style/ESRI - C2 UEI Air Track"
+        }
+    }
+]

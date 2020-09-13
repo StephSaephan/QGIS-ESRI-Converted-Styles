@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg15"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 391.92062,391.38808   L 541.15652,391.38808   L 541.15652,583.2682   L 391.92062,583.2682   L 391.92062,391.38808   z "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 391.92062,584.36358   L 466.51969,684.53407   L 541.15652,584.36358  "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 391.92062,551.31336   L 541.15652,551.31336  "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 466.51969,492.65395   L 509.16391,412.72907   L 423.91323,412.72907   L 466.51969,492.65395  "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 466.51969,487.32814   L 466.51969,540.62398  "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

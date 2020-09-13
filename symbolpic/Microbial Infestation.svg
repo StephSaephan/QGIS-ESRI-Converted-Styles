@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="49.07mm"
+   width="107.61mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 371.14698,92.706826   C 371.14698,124.51486 296.02249,150.24899 203.31566,150.24899   C 110.64879,150.24899 35.484337,124.51486 35.484337,92.706826   C 35.484337,60.938754 110.64879,35.164658 203.31566,35.164658   C 296.02249,35.164658 371.14698,60.938754 371.14698,92.706826  "
+     style="fill:none;stroke:#000000;stroke-width:5.7542167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 160.63855,89.829718   C 160.63855,103.33614 149.68956,114.28514 136.18313,114.28514   C 122.67671,114.28514 111.72771,103.33614 111.72771,89.829718   C 111.72771,76.323292 122.67671,65.374296 136.18313,65.374296   C 149.68956,65.374296 160.63855,76.323292 160.63855,89.829718   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path9"
+     d="  M 160.63855,89.829718   C 160.63855,103.33614 149.68956,114.28514 136.18313,114.28514   C 122.67671,114.28514 111.72771,103.33614 111.72771,89.829718   C 111.72771,76.323292 122.67671,65.374296 136.18313,65.374296   C 149.68956,65.374296 160.63855,76.323292 160.63855,89.829718  "
+     style="fill:none;stroke:#000000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

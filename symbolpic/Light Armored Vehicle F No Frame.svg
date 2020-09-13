@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg25"
+   height="65.129997mm"
+   width="73.43mm"
+   version="1.0">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 71.608031,54.345381   L 71.608031,159.83936  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 205.87309,54.345381   L 205.87309,159.83936  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 71.608031,107.09237   L 141.61767,57.222489  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 205.87309,107.09237   L 134.90442,57.222489  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 71.608031,107.09237   L 141.61767,156.96225  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path15"
+     d="  M 205.87309,107.09237   L 134.90442,156.96225  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path17"
+     d="  M 84.075501,179.02008   C 84.075501,185.93313 78.521083,191.48755 71.608031,191.48755   C 64.734939,191.48755 59.140561,185.93313 59.140561,179.02008   C 59.140561,172.14699 64.734939,166.55261 71.608031,166.55261   C 78.521083,166.55261 84.075501,172.14699 84.075501,179.02008  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path19"
+     d="  M 151.20803,179.02008   C 151.20803,185.93313 145.65361,191.48755 138.74056,191.48755   C 131.86747,191.48755 126.27309,185.93313 126.27309,179.02008   C 126.27309,172.14699 131.86747,166.55261 138.74056,166.55261   C 145.65361,166.55261 151.20803,172.14699 151.20803,179.02008  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path21"
+     d="  M 218.34056,179.02008   C 218.34056,185.93313 212.78614,191.48755 205.87309,191.48755   C 199,191.48755 193.40562,185.93313 193.40562,179.02008   C 193.40562,172.14699 199,166.55261 205.87309,166.55261   C 212.78614,166.55261 218.34056,172.14699 218.34056,179.02008  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path23"
+     d="  M 54.345381,162.71646   L 223.13574,162.71646  "
+     style="fill:none;stroke:#80e0ff;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

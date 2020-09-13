@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="125.53mm"
+   width="95.75mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 307.53092,420.05783   C 307.53092,54.665059 54.345381,54.665059 54.345381,420.05783   z "
+     style="fill:#80e0ff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 307.53092,420.05783   C 307.53092,54.665059 54.345381,54.665059 54.345381,420.05783  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 186.01305,215.86305   C 186.93213,217.7012 187.61144,219.17972 188.09096,220.33855   L 188.09096,258.06064   L 269.20943,342.05622   L 269.20943,354.52369   L 188.09096,301.69678   L 188.09096,369.34879   L 207.07188,388.68935   L 207.07188,397.99999   L 184.97409,388.68935   L 180.49859,397.99999   L 175.66345,388.68935   L 153.9253,397.99999   L 153.9253,388.68935   L 172.54658,369.34879   L 172.54658,301.69678   L 91.74779,354.52369   L 91.74779,342.05622   L 172.54658,258.06064   L 172.54658,220.33855   L 173.58554,217.22168   C 175.66345,213.10582 177.94116,210.98795 180.49859,210.98795   C 182.33674,210.98795 184.1749,212.6263 186.01305,215.86305   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

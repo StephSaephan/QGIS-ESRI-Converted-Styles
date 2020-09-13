@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg15"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 1881.5094,1881.5339   L 2263.951,1881.5339   L 2263.951,2136.0417   L 1881.5094,2136.0417   z "
+     style="fill:#80e0ff;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:10.651708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <ellipse
+     id="ellipse7"
+     ry="31.312998"
+     rx="31.312998"
+     cy="2008.7878"
+     cx="2072.749"
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:1.0576164px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 2019.6038,1917.0396   C 2051.5967,1897.8514 2094.2413,1897.8514 2126.1964,1917.0396   L 2097.4142,1967.1253   C 2083.5518,1958.5888 2062.2484,1958.5888 2048.3861,1967.1253   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:1.0576164px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 2178.9262,2009.0522   C 2179.5683,2046.3332 2158.3027,2083.2742 2125.7054,2101.4048   L 2096.6587,2051.4324   C 2110.9743,2043.6891 2121.626,2025.2186 2121.135,2008.9389   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:1.0576164px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 2020.0193,2100.3849   C 1987.4598,2082.2166 1966.1942,2045.2378 1966.9119,2007.9568   L 2024.703,2007.9568   C 2024.212,2024.1988 2034.8259,2042.7071 2049.1038,2050.4503   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:1.0576164px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

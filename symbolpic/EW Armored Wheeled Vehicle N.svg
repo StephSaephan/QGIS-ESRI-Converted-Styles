@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg21"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 1859.3937,1859.3937   L 2140.1877,1859.3937   L 2140.1877,2140.1877   L 1859.3937,2140.1877   z "
+     style="fill:#aaffaa;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:10.627287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 1925.7954,1977.6882   L 1925.7954,1936.5734   L 1956.2829,1936.5734   L 1956.2829,1943.5075   L 1934.0862,1943.5075   L 1934.0862,1952.6274   L 1954.7378,1952.6274   L 1954.7378,1959.5615   L 1934.0862,1959.5615   L 1934.0862,1970.7541   L 1957.0743,1970.7541   L 1957.0743,1977.6882   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path9"
+     d="  M 1970.0004,1977.6882   L 1960.1645,1936.5734   L 1968.6814,1936.5734   L 1974.8618,1964.7998   L 1982.3612,1936.5734   L 1992.2348,1936.5734   L 1999.4704,1965.2897   L 2005.7639,1936.5734   L 2014.13,1936.5734   L 2004.1434,1977.6882   L 1995.325,1977.6882   L 1987.1473,1946.9369   L 1978.9695,1977.6882   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path11"
+     d="  M 1939.1737,1918.1076   C 1878.5379,1918.1076 1878.5379,2030.4101 1939.1737,2030.4101   L 2060.4077,2030.4101   C 2121.0435,2030.4101 2121.0435,1918.1076 2060.4077,1918.1076   z "
+     style="fill:none;stroke:#000000;stroke-width:9.7228365px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 1928.5464,2047.67   C 1928.5464,2055.2825 1922.3283,2061.4629 1914.7159,2061.4629   C 1907.0658,2061.4629 1900.8853,2055.2825 1900.8853,2047.67   C 1900.8853,2040.0199 1907.0658,2033.8395 1914.7159,2033.8395   C 1922.3283,2033.8395 1928.5464,2040.0199 1928.5464,2047.67   z "
+     style="fill:none;stroke:#000000;stroke-width:10.627287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path15"
+     d="  M 2013.6024,2047.67   C 2013.6024,2055.2825 2007.422,2061.4629 1999.7719,2061.4629   C 1992.1594,2061.4629 1985.979,2055.2825 1985.979,2047.67   C 1985.979,2040.0199 1992.1594,2033.8395 1999.7719,2033.8395   C 2007.422,2033.8395 2013.6024,2040.0199 2013.6024,2047.67   z "
+     style="fill:none;stroke:#000000;stroke-width:10.627287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path17"
+     d="  M 2098.6961,2047.67   C 2098.6961,2055.2825 2092.5157,2061.4629 2084.8655,2061.4629   C 2077.2531,2061.4629 2071.035,2055.2825 2071.035,2047.67   C 2071.035,2040.0199 2077.2531,2033.8395 2084.8655,2033.8395   C 2092.5157,2033.8395 2098.6961,2040.0199 2098.6961,2047.67   z "
+     style="fill:none;stroke:#000000;stroke-width:10.627287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path19"
+     d="  M 2140.1877,1859.3937   L 1859.3937,2140.1877  "
+     style="fill:none;stroke:#000000;stroke-width:10.627287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

@@ -1,0 +1,2093 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Bench mark" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="A" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.390625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Bottom of slope, bottom of cliff" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Boulders" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="B" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1953125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Boulders, scattered" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="B" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1953125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Boundary half mereing symbol" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="7" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-3.1640625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Boundary post or stone" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="S" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.078125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Building outline" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Building outline (overhead)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="1;4" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Civil parish or community boundary" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="1;5" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Coniferous trees" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="C" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.046875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Coniferous trees, scattered" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="C" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.046875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Coppice or osiers" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="D" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.4296875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Copyright Symbol" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="W" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.3125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="multilayer,black" name="County boundary" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="3;1e-06;1;3;2;3" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.5" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer locked="0" class="MarkerLine" pass="0" enabled="1">
+        <prop v="4" k="average_angle_length"/>
+        <prop v="3x:0,0,0,0,0,0" k="average_angle_map_unit_scale"/>
+        <prop v="MM" k="average_angle_unit"/>
+        <prop v="2" k="interval"/>
+        <prop v="3x:0,0,0,0,0,0" k="interval_map_unit_scale"/>
+        <prop v="Point" k="interval_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="0.5" k="offset_along_line"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_along_line_map_unit_scale"/>
+        <prop v="Point" k="offset_along_line_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="interval" k="placement"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="rotate"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol name="@County boundary@1" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+          <layer locked="0" class="FontMarker" pass="0" enabled="1">
+            <prop v="0" k="angle"/>
+            <prop v="!" k="chr"/>
+            <prop v="0,0,0,255" k="color"/>
+            <prop v="ESRI Default Marker" k="font"/>
+            <prop v="" k="font_style"/>
+            <prop v="1" k="horizontal_anchor_point"/>
+            <prop v="miter" k="joinstyle"/>
+            <prop v="0.15625,0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Point" k="offset_unit"/>
+            <prop v="255,255,255,255" k="outline_color"/>
+            <prop v="0" k="outline_width"/>
+            <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+            <prop v="MM" k="outline_width_unit"/>
+            <prop v="1" k="size"/>
+            <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+            <prop v="Point" k="size_unit"/>
+            <prop v="1" k="vertical_anchor_point"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+          <layer locked="0" class="FontMarker" pass="0" enabled="1">
+            <prop v="0" k="angle"/>
+            <prop v="!" k="chr"/>
+            <prop v="0,0,0,255" k="color"/>
+            <prop v="ESRI Default Marker" k="font"/>
+            <prop v="" k="font_style"/>
+            <prop v="1" k="horizontal_anchor_point"/>
+            <prop v="miter" k="joinstyle"/>
+            <prop v="0.15625,0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Point" k="offset_unit"/>
+            <prop v="255,255,255,255" k="outline_color"/>
+            <prop v="0" k="outline_width"/>
+            <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+            <prop v="MM" k="outline_width_unit"/>
+            <prop v="1" k="size"/>
+            <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+            <prop v="Point" k="size_unit"/>
+            <prop v="1" k="vertical_anchor_point"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="District, LB or UA boundary" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="13;6" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Electoral division or ward boundary" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="10;4" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="European, parliamentary or assembly" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="6;3" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="3.2" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Flow arrow" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="G" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="7.3671875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="General ground level or minor overhead detail" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="1;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="General line or minor building detail" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="multilayer,black" name="Glass Building" type="fill" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="LinePatternFill" pass="0" enabled="1">
+        <prop v="30" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="5" k="distance"/>
+        <prop v="3x:0,0,0,0,0,0" k="distance_map_unit_scale"/>
+        <prop v="Point" k="distance_unit"/>
+        <prop v="0" k="line_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="line_width_map_unit_scale"/>
+        <prop v="MM" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol name="@Glass Building@0" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+          <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+            <prop v="flat" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="MM" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="miter" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="solid" k="line_style"/>
+            <prop v="0.5" k="line_width"/>
+            <prop v="Point" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Point" k="offset_unit"/>
+            <prop v="0" k="ring_filter"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+      <layer locked="0" class="LinePatternFill" pass="0" enabled="1">
+        <prop v="150" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="5" k="distance"/>
+        <prop v="3x:0,0,0,0,0,0" k="distance_map_unit_scale"/>
+        <prop v="Point" k="distance_unit"/>
+        <prop v="0" k="line_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="line_width_map_unit_scale"/>
+        <prop v="MM" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol name="@Glass Building@1" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+          <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+            <prop v="flat" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="MM" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="miter" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="solid" k="line_style"/>
+            <prop v="0.5" k="line_width"/>
+            <prop v="Point" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Point" k="offset_unit"/>
+            <prop v="0" k="ring_filter"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="round" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Glasshouse indicator" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="+" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.421875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Heath" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="I" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-0.2890625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Marsh, saltmarsh or reeds" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="J" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1015625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Mean high water (springs)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="2" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Mean low water (springs)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.5" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Minor line detail" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Non-coniferous trees" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="L" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.3984375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Non-coniferous trees, scattered" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="L" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.3984375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Orchard" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="M" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-0.28125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Overhead detail" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="6;3" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Point feature" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="," k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.40625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Positioned boulder" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="B" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1953125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Positioned coniferous tree" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="C" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.046875,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Positioned non-coniferous tree" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="L" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.3984375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Pylon" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="N" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.15625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Railway (narrow gauge)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="multilayer,black" name="Railway (standard gauge)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="-1.3" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="1.3" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Ridge or rock line" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Road (public) edge of metalling" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="3;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Road centreline" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Rock" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="O" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.328125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Rock, scattered" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="O" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.328125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Roofed building indicator" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="V" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1484375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Rough grass" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="H" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.0703125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Scree" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="(" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.3828125,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Scrub" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="P" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-0.359375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Slope indicator" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="#" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.40625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Spot height" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="E" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.5,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="multilayer,black" name="Top of cliff" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="-1.3" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer locked="0" class="HashLine" pass="0" enabled="1">
+        <prop v="4" k="average_angle_length"/>
+        <prop v="3x:0,0,0,0,0,0" k="average_angle_map_unit_scale"/>
+        <prop v="MM" k="average_angle_unit"/>
+        <prop v="0" k="hash_angle"/>
+        <prop v="3" k="hash_length"/>
+        <prop v="3x:0,0,0,0,0,0" k="hash_length_map_unit_scale"/>
+        <prop v="Point" k="hash_length_unit"/>
+        <prop v="16" k="interval"/>
+        <prop v="3x:0,0,0,0,0,0" k="interval_map_unit_scale"/>
+        <prop v="Point" k="interval_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="0.5" k="offset_along_line"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_along_line_map_unit_scale"/>
+        <prop v="Point" k="offset_along_line_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="interval" k="placement"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="rotate"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol name="@Top of cliff@1" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+          <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+            <prop v="flat" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="MM" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="round" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="solid" k="line_style"/>
+            <prop v="0" k="line_width"/>
+            <prop v="Point" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Point" k="offset_unit"/>
+            <prop v="0" k="ring_filter"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Top of slope" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Triangulation point" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="Q" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-0.3515625,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Underground detail or course of antiquity" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="2;3" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Upper level of communication indicator" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="T" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="0.1484375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Vegetation or landform limit" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="6;3" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="Point" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="1.6" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Vegetation or landform limit (suppressed)" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.8" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,cartographic" name="Water detail" type="line" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="SimpleLine" pass="0" enabled="1">
+        <prop v="flat" k="capstyle"/>
+        <prop v="5;2" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="round" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="1" k="line_width"/>
+        <prop v="Point" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="0" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol tags="black,character,ESRI Ordnance Survey" name="Water indicator" type="marker" clip_to_extent="1" force_rhr="0" alpha="1">
+      <layer locked="0" class="FontMarker" pass="0" enabled="1">
+        <prop v="0" k="angle"/>
+        <prop v="&amp;" k="chr"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="ESRI Ordnance Survey" k="font"/>
+        <prop v="" k="font_style"/>
+        <prop v="1" k="horizontal_anchor_point"/>
+        <prop v="miter" k="joinstyle"/>
+        <prop v="-0.09375,-5.5" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Point" k="offset_unit"/>
+        <prop v="255,255,255,255" k="outline_color"/>
+        <prop v="0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="MM" k="outline_width_unit"/>
+        <prop v="18" k="size"/>
+        <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+        <prop v="Point" k="size_unit"/>
+        <prop v="1" k="vertical_anchor_point"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats>
+    <textformat tags="black,Arial" name="Boundary and administrative information">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="10" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Times New Roman" name="Footnotes">
+      <text-style fontFamily="Times New Roman" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="18" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Grid lines">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="14" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Grid values">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="18" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="House number or building name">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="8" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Land parcel number">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="8" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Map Title 1">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="48" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Map Title 2">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="36" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Times New Roman" name="Marginal names">
+      <text-style fontFamily="Times New Roman" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="10" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Times New Roman" name="Miscellaneous name">
+      <text-style fontFamily="Times New Roman" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="10" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Neat line and corner value">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="24" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Times New Roman" name="Road name and number">
+      <text-style fontFamily="Times New Roman" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="14" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+    <textformat tags="black,Arial" name="Water feature name">
+      <text-style fontFamily="Arial" fontSizeUnit="Point" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontKerning="1" namedStyle="" fontLetterSpacing="0.171875" allowHtml="0" fontWordSpacing="0" fontUnderline="0" previewBkgrdColor="255,255,255,255" textColor="0,0,0,255" fontWeight="16" blendMode="0" textOpacity="1" fontSize="8" fontCapitals="0" multilineHeight="1" fontStrikeout="0" textOrientation="horizontal" fontItalic="0">
+        <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="255,255,255,255" bufferOpacity="1" bufferNoFill="1" bufferJoinStyle="128" bufferBlendMode="0" bufferSize="2" bufferDraw="0" bufferSizeUnits="Point"/>
+        <text-mask maskJoinStyle="128" maskOpacity="1" maskType="0" maskSize="1.5" maskedSymbolLayers="" maskSizeUnits="MM" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskEnabled="0"/>
+        <background shapeJoinStyle="64" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeBorderWidthUnit="MM" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderColor="128,128,128,255" shapeOffsetY="0" shapeRadiiX="0" shapeRadiiUnit="MM" shapeSizeY="0" shapeBorderWidth="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetUnit="MM" shapeSizeUnit="MM" shapeSizeType="0" shapeType="0" shapeBlendMode="0" shapeOpacity="1" shapeRotation="0" shapeDraw="0" shapeFillColor="255,255,255,255" shapeOffsetX="0" shapeRadiiY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0"/>
+        <shadow shadowRadiusUnit="MM" shadowOpacity="0.7" shadowScale="100" shadowDraw="0" shadowBlendMode="6" shadowOffsetDist="1" shadowRadius="1.5" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetUnit="MM" shadowOffsetGlobal="1" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetAngle="135" shadowColor="0,0,0,255" shadowUnder="0"/>
+        <dd_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </dd_properties>
+      </text-style>
+    </textformat>
+  </textformats>
+  <labelsettings/>
+  <legendpatchshapes/>
+</qgis_style>

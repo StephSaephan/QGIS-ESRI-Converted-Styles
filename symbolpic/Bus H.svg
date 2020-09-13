@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg19"
+   height="116.73mm"
+   width="116.73mm"
+   version="1.0">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156   z "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 143.85542,153.44578   L 143.85542,287.71084  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 297.3012,153.44578   L 297.3012,287.71084  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 143.85542,282.91566   L 297.3012,282.91566  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path15"
+     d="  M 143.85542,157.28193   C 210.98795,182.21686 230.16867,182.21686 297.3012,157.28193  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path17"
+     d="  M 202.95602,255.58313   L 202.95602,193.80522   L 226.13273,193.80522   C 230.84799,193.80522 234.64417,194.40462 237.48132,195.68333   C 240.31847,196.92209 242.55622,198.84016 244.19457,201.43755   C 245.79297,204.03494 246.59217,206.75221 246.59217,209.58935   C 246.59217,212.2267 245.87289,214.74417 244.47429,217.06184   C 243.03574,219.37951 240.87791,221.25763 237.96084,222.69618   C 241.71706,223.81506 244.59417,225.65321 246.59217,228.33052   C 248.59016,230.96787 249.58915,234.08474 249.58915,237.68112   C 249.58915,240.55823 248.98976,243.23554 247.751,245.75301   C 246.55221,248.23052 245.03373,250.14859 243.23554,251.50723   C 241.43735,252.8259 239.19959,253.86486 236.48233,254.54417   C 233.76506,255.22349 230.44839,255.58313 226.49237,255.58313   z  M 211.10783,219.73915   L 224.49437,219.73915   C 228.09076,219.73915 230.68815,219.49939 232.28654,219.01988   C 234.36445,218.42048 235.92289,217.38152 236.96184,215.98293   C 238.04076,214.54437 238.56024,212.74618 238.56024,210.54839   C 238.56024,208.51044 238.08072,206.71225 237.08172,205.15381   C 236.08273,203.59538 234.68413,202.51646 232.84598,201.95703   C 231.04779,201.35763 227.89096,201.07791 223.45542,201.07791   L 211.10783,201.07791   z  M 211.10783,248.27048   L 226.49237,248.27048   C 229.12972,248.27048 231.00783,248.19056 232.04678,247.99076   C 233.96486,247.67108 235.52329,247.11164 236.802,246.31245   C 238.04076,245.51325 239.07972,244.39437 239.91887,242.8759   C 240.71807,241.35743 241.11767,239.63915 241.11767,237.68112   C 241.11767,235.36345 240.51827,233.36546 239.35943,231.64719   C 238.16064,229.96887 236.52229,228.77008 234.44437,228.09076   C 232.36646,227.41144 229.32951,227.0518 225.41345,227.0518   L 211.10783,227.0518   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

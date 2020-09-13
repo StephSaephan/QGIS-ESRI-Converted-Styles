@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="107.94mm"
+   width="95.75mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 54.345381,353.56465   L 54.345381,171.34779   L 180.93815,54.345381   L 307.53092,171.34779   L 307.53092,353.56465   z "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 54.345381,353.56465   L 54.345381,171.34779   L 180.93815,54.345381   L 307.53092,171.34779   L 307.53092,353.56465  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 134.58474,253.6251   L 174.4247,199.95903   L 139.3,150.64859   L 155.52369,150.64859   L 174.2249,177.06205   C 178.101,182.5765 180.85823,186.77229 182.49658,189.72931   C 184.81425,185.97309 187.53152,182.05703 190.64839,177.98112   L 211.38755,150.64859   L 226.17269,150.64859   L 190.00903,199.1998   L 229.00984,253.6251   L 212.14678,253.6251   L 186.21285,216.902   C 184.77429,214.78413 183.25582,212.50642 181.73735,210.02891   C 179.41968,213.78514 177.78132,216.34257 176.82229,217.74116   L 150.96827,253.6251   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

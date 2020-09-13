@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="116.73mm"
+   width="116.73mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156   z "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 190.16887,158.0012   L 180.29879,150.80843   L 220.69819,116.04337   L 259.49919,149.4498   L 250.94779,157.76144   L 220.53835,132.18715   L 190.16887,158.0012  z    M 255.10361,174.58454   L 246.91184,182.53654   L 225.49337,164.6745   L 225.49337,324.39397   L 213.8251,324.39397   L 213.8251,166.19297   L 195.32369,183.01606   L 186.25281,175.42369   L 220.73815,145.85341   L 255.10361,174.58454  z    M 213.8251,262.45622   L 213.8251,251.86686   L 187.97108,251.86686   L 187.97108,262.45622   L 213.8251,262.45622  z    M 213.8251,212.98594   L 213.8251,202.43654   L 188.8502,202.43654   L 188.8502,212.98594   L 213.8251,212.98594  z    M 213.8251,237.36144   L 213.8251,226.17269   L 188.8502,226.17269   L 188.8502,237.36144   L 213.8251,237.36144  z    M 249.86887,212.98594   L 249.86887,202.79618   L 225.49337,202.79618   L 225.49337,212.98594   L 249.86887,212.98594  z    M 249.86887,237.36144   L 249.86887,226.17269   L 225.49337,226.17269   L 225.49337,237.36144   L 249.86887,237.36144  z    M 248.98976,262.81586   L 248.98976,251.86686   L 225.49337,251.86686   L 225.49337,262.81586   L 248.98976,262.81586  z   "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

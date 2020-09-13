@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg13"
+   height="28.09mm"
+   width="18.620001mm"
+   version="1.0">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 59.140561,35.484337   C 59.140561,48.751003 48.431325,59.46024 35.164658,59.46024   C 21.937951,59.46024 11.188755,48.751003 11.188755,35.484337   C 11.188755,22.25763 21.937951,11.508434 35.164658,11.508434   C 48.431325,11.508434 59.140561,22.25763 59.140561,35.484337   z "
+     style="fill:#008000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 59.140561,35.484337   C 59.140561,48.751003 48.431325,59.46024 35.164658,59.46024   C 21.937951,59.46024 11.188755,48.751003 11.188755,35.484337   C 11.188755,22.25763 21.937951,11.508434 35.164658,11.508434   C 48.431325,11.508434 59.140561,22.25763 59.140561,35.484337  "
+     style="fill:none;stroke:#008000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 35.164658,59.939758   C 37.28253,71.88775 15.024899,94.465059 15.024899,94.465059   C 45.833935,94.664858 59.060642,62.377308 59.020682,38.441365   z "
+     style="fill:#008000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path11"
+     d="  M 35.164658,59.939758   C 37.28253,71.88775 15.024899,94.465059 15.024899,94.465059   C 45.833935,94.664858 59.060642,62.377308 59.020682,38.441365  "
+     style="fill:none;stroke:#008000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

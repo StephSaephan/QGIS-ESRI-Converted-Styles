@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg7"
+   height="59.049999mm"
+   width="21.67mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 0,53.266465   L 10.789156,53.266465   L 10.789156,159.3998   L 0,159.3998   L 0,53.266465  z    M 35.004819,87.312248   L 35.004819,76.123493   L 10.309638,76.123493   L 10.309638,87.312248   L 35.004819,87.312248   L 35.004819,87.312248  z    M 35.004819,111.36807   L 35.004819,100.13936   L 10.309638,100.13936   L 10.309638,111.36807   L 35.004819,111.36807  z    M 35.004819,135.38393   L 35.004819,124.15522   L 10.309638,124.15522   L 10.309638,135.38393   L 35.004819,135.38393  z    M 46.673092,0   L 46.673092,222.69618   L 34.565261,223.09578   L 34.565261,0   L 46.673092,0  z    M 70.489156,87.312248   L 70.489156,76.123493   L 46.673092,76.123493   L 46.673092,87.711846   L 70.489156,87.312248  z    M 70.489156,111.36807   L 70.489156,100.13936   L 46.673092,100.13936   L 46.673092,111.76767   L 70.489156,111.36807  z    M 70.489156,135.38393   L 70.489156,123.75562   L 46.673092,124.15522   L 46.673092,135.78353   L 70.489156,135.38393  z    M 70.009638,52.866867   L 81.71787,52.866867   L 81.71787,159.0002   L 70.009638,159.0002   L 70.009638,52.866867  z   "
+     style="fill:#ffff80;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

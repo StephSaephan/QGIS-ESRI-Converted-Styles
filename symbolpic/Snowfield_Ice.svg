@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg7"
+   height="16.145933mm"
+   width="17.466734mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <image
+     id="image5"
+     preserveAspectRatio="none"
+     transform="matrix(3,0,0,-3,0.66666667,245.33333)"
+     width="22"
+     height="20.333333"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAA9CAIAAACWQiirAAACmklEQVRogc1aW3LDIAwkvUR6s16xvVl6CvcjM6mNpdVqJTzRlwPoAXqsYHLbtm28DX3+/D6+7gLX2I50/36EH9P3+Wc4HtKZEY+Moj7SiNcgcyjh+Jlmb2SJcQtvjcxub4MMLc0sjRGLGoxzGWVktkyzwj5NpdWgwmr4KXM2nRvmFsliFSqrOJmU0OyN3orH6xrehCBLmAIuTVXhgfUJJrZzMewoqFLVVq5amDdkf84a27gGGWRygwqv4GUxyyowBUSJuQGECg0FU8cDFE9ZdtYngx1J5KG04YYQZsU+cr/evW/w1oSzRZhn0im4b1R6uJBCb/DbSwdVqvhk3SKTu411KuUY887r/v2Yg4pPO++kUzAcBi15mv33jZR6UkKpUSfPNQUdzPaEwtWG4lki+07SJ3ZPFVaYFK6vuAhMC943N0hRBxQvgjc5XoFzpTVs3BUTkKnTMbmooFpRsnh1DO9oCeKWW1RFywCLwhEtqBgrs1wXBdXWsTdA1ScFmSVkNz3vVQU3N1LtoLcs23HKx9EZVIwdXTk9rak+fmqM/E1rO4ZTOqhIHZgL624kuxm5Hgc0A16k5IZ8QwSDoWrPsTZutJyQbL1eqXrjtasQiUEFDh7XVh46gEBmPxiL0gW3ETEaAyH3FL2azChgriXiGy5jx2quPSXgL9uSePlWdHKcG4yJ5mxj1HkHh1UY16alueiJlbuyxLWJV4ZzlPkJ5AADUG5U0uZiQv8ZASOAhLuU6TfSh0pQAZJhsYVKL+otJmYLsTk7v6iTzanWCGcRg8Hv58dtW/wHVu0/qVn62Oub1IfM+zXn9c8Rbw+v9eADazwQDwV8SHRdJPgkaXhuE1JLILYZMZfKbRxzkAxchJL/caPi6JZIq7P8Aa7HstmaZAI/AAAAAElFTkSuQmCC"
+     x="-0.33333333"
+     y="61.333333" />
+</svg>

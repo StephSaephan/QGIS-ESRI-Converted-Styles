@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg7"
+   height="55.32mm"
+   width="20.99mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 9.8700802,42.277509   L 0,35.084738   L 40.399397,0.31967871   L 79.2004,33.726104   L 70.648995,42.03775   L 40.239558,16.463454   L 9.8700802,42.277509  z    M 74.804818,58.860843   L 66.613051,66.81285   L 45.194578,48.950803   L 45.194578,208.67028   L 33.526305,208.67028   L 33.526305,50.469276   L 15.024899,67.292369   L 5.954016,59.699999   L 40.439357,30.129718   L 74.804818,58.860843  z    M 33.526305,146.73253   L 33.526305,136.14317   L 7.672289,136.14317   L 7.672289,146.73253   L 33.526305,146.73253  z    M 33.526305,97.262248   L 33.526305,86.71285   L 8.5514055,86.71285   L 8.5514055,97.262248   L 33.526305,97.262248  z    M 33.526305,121.63775   L 33.526305,110.44899   L 8.5514055,110.44899   L 8.5514055,121.63775   L 33.526305,121.63775  z    M 69.570079,97.262248   L 69.570079,87.072489   L 45.194578,87.072489   L 45.194578,97.262248   L 69.570079,97.262248  z    M 69.570079,121.63775   L 69.570079,110.44899   L 45.194578,110.44899   L 45.194578,121.63775   L 69.570079,121.63775  z    M 68.690963,147.09217   L 68.690963,136.14317   L 45.194578,136.14317   L 45.194578,147.09217   L 68.690963,147.09217  z   "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

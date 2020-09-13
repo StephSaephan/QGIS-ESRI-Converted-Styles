@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg7"
+   height="52.950001mm"
+   width="22.17mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 0,26.013855   L 10.789156,26.013855   L 10.789156,139.97932   L 0,139.97932   z  M 75.883734,191.76727   L 67.332328,200.03895   L 42.19759,176.02309   L 16.183735,200.03895   L 7.192771,192.16686   L 41.758032,159.83936   z  M 37.28253,64.575099   L 37.28253,52.946786   L 11.708233,52.946786   L 11.708233,64.575099   L 37.28253,64.575099   z  M 37.28253,89.430119   L 37.28253,77.801806   L 11.708233,77.801806   L 11.708233,89.430119   z  M 37.28253,114.28514   L 37.28253,102.69679   L 11.708233,102.69679   L 11.708233,114.28514   z  M 48.031726,0.31967871   L 47.592168,166.07309   L 35.923895,166.07309   L 35.923895,0.31967871   C 39.520281,0.079919678 43.556224,0.079919678 48.031726,0.31967871   z  M 72.726907,64.575099   L 72.726907,52.547188   L 48.950803,52.946786   L 48.950803,64.974698   z  M 72.726907,89.430119   L 72.726907,77.402208   L 48.950803,77.801806   L 48.950803,89.829718   z  M 72.726907,114.28514   L 72.726907,102.25723   L 48.950803,102.69679   L 48.950803,114.68474   z  M 71.84779,25.614257   L 83.516063,25.614257   L 83.516063,139.53976   L 71.84779,139.53976   z "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

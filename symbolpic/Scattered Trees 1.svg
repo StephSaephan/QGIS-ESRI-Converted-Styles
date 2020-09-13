@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg7"
+   height="19.583399mm"
+   width="19.583399mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <image
+     id="image5"
+     preserveAspectRatio="none"
+     transform="matrix(3,0,0,-3,0.66666667,294.66667)"
+     width="24.666667"
+     height="24.666667"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAABKCAIAAACTslUmAAAC7UlEQVR4nN1bW5bCMAiNHndmt6OL6Xbs3jof6WlrnpdnM97jx6gIgRAKhLmt6xp+CO9lCiHM0xLf3i9djBWikiGEsP4QXp9n8rehemdhDsjFvT5PK+eM7nE4iT328/YFqoWQPcmdBGROWgzCkLN73T0pGxLgqbjb72WapyUk6oLW7Vo67jO4IQhn3HHOlKH2RWMF7XUI0VaPKjTkTBkmlwM3LkluIbRcoh5JEC76kRxuMDBsB9cFEkGHeqBWcpGu0HYlc5AOxaNvABaSzF2LIZXnbbUpiEZxY2v/4QVY0q8axPopdRJU52mhplqkBK1DzDAtFeytQFK/NrG5epKnv9xFbSNnEFQP4G87xHbmdOZWxH23Qfco65ZkTuX8bsh2uSGP9XbcGggMYf/IRW+vzzM5lLVqQDcRcUprnM3pjB/sUp/DVaqeZ51qgTQgx03kNWpyqDBhc8tj5LZ787TEl6IJtYBzK6xfy9JF4/lzq/Y5FVdDXZMdt07kFDmGAFrcWur53/LoA3EPhmMMkrhV6z2ee7BTreLzVp64tTplbt0uQ0GKLsSDyuOklgBcn3NatHoPMG0OGxUkk2Rzjf23nYzQTUFrUhqfWKnn1m5oi7Y6e6NUVVp2Kn7r4Jy50PNb/g2R8GGle0NWXUyuvd1gTi7Iem/L6mndPyE/Me9z8qSyze82IrMmYztuUt0EHQ+GUUJ5Bbyy8/qcE2k98gtrf4fZ+TtE6bScdavxcP6SlVgNfuiCb3SqU+nC+giYDH6QKNU7ceebZmX18BXHgBlfFr3GjaeiJ7BDnO6ty/nv4DwznNCo3yglnxQunxVcYpgciDa20y3SBtFqx10yNTQ43stECC0XdocaKBY6+5FG1buwXGqgG5z4DwbTiFekScgQbzIpiJAJta8TQhxOjYCiBsmEILF6sVMjQ50TXBBCpp67SE4BZ2SuAUYEMu3NPVAnxsBgZZoJbFnLaMlUA6SxMNtqXXFCbaD/QhnHF/4AZwZ7rVLNKmoAAAAASUVORK5CYII="
+     x="-0.33333333"
+     y="73.666667" />
+</svg>

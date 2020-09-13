@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg23"
+   height="130.27mm"
+   width="130.27mm"
+   version="1.0">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 198.2008,63.935742   L 198.2008,111.88755   L 294.10441,111.88755   L 294.10441,63.935742   L 198.2008,63.935742   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 164.63454,327.67068   C 164.63454,437.95983 327.67068,437.95983 327.67068,327.67068   C 437.95983,327.67068 437.95983,164.63454 327.67068,164.63454   C 327.67068,54.345381 164.63454,54.345381 164.63454,164.63454   C 54.345381,164.63454 54.345381,327.67068 164.63454,327.67068   z "
+     style="fill:#ffff80;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path9"
+     d="  M 164.63454,327.67068   C 164.63454,437.95983 327.67068,437.95983 327.67068,327.67068   C 437.95983,327.67068 437.95983,164.63454 327.67068,164.63454   C 327.67068,54.345381 164.63454,54.345381 164.63454,164.63454   C 54.345381,164.63454 54.345381,327.67068 164.63454,327.67068  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 308.48996,246.15261   C 308.48996,280.59799 280.59799,308.48996 246.15261,308.48996   C 211.74719,308.48996 183.81526,280.59799 183.81526,246.15261   C 183.81526,211.74719 211.74719,183.81526 246.15261,183.81526   C 280.59799,183.81526 308.48996,211.74719 308.48996,246.15261   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path13"
+     d="  M 308.48996,246.15261   C 308.48996,280.59799 280.59799,308.48996 246.15261,308.48996   C 211.74719,308.48996 183.81526,280.59799 183.81526,246.15261   C 183.81526,211.74719 211.74719,183.81526 246.15261,183.81526   C 280.59799,183.81526 308.48996,211.74719 308.48996,246.15261  "
+     style="fill:none;stroke:#000000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path15"
+     d="  M 198.2008,169.42972   L 198.2008,169.42972   L 294.10441,169.42972   L 246.15261,246.15261   L 294.10441,322.8755   L 198.2008,322.8755   L 246.15261,246.15261   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path17"
+     d="  M 198.2008,169.42972   L 198.2008,169.42972   L 294.10441,169.42972   L 246.15261,246.15261   L 294.10441,322.8755   L 198.2008,322.8755   L 246.15261,246.15261  "
+     style="fill:none;stroke:#000000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path19"
+     d="  M 169.42972,198.2008   L 169.42972,198.2008   L 169.42972,294.10441   L 246.15261,246.15261   L 322.8755,294.10441   L 322.8755,198.2008   L 246.15261,246.15261   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path21"
+     d="  M 169.42972,198.2008   L 169.42972,198.2008   L 169.42972,294.10441   L 246.15261,246.15261   L 322.8755,294.10441   L 322.8755,198.2008   L 246.15261,246.15261  "
+     style="fill:none;stroke:#000000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

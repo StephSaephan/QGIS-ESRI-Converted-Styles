@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg7"
+   height="12.708467mm"
+   width="15.0876mm"
+   version="1.0">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <image
+     id="image5"
+     preserveAspectRatio="none"
+     transform="matrix(3,0,0,-3,0,192)"
+     width="19"
+     height="16"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAAwCAIAAAAkdUUaAAADGklEQVRogZ1ZUZIrIQg0Vd4sc53sYXKdzN18H5NnGOhuUD62JoqIgA24bRh6fZ7uY2mK0evztDwbEi7q7T/9ncf8C0lMaXof5995xOX1vd7H2VprSyezdoqWduOpBDYSp352/TuPr+JlOzHDXFOpwDg7F4pV3f6wrEIht4f173actPsJoSbNugB6wbk4ju9RDJhUYLfqM6tc49ZxRfvFhc6ES37ojtv+hDvZQXxbiULOv1DLOQg37XbCWY4d3bLBJZHfYZawNDvG+zibiCf2AdkgwwzKa0pEpJBzw6xofGbU6CMR5dp+LjC0nO/UMBc8ojo7LsP8Sjqwey2BSYcGqKSGyxIsxBkCOM4leowxdNRP6VDLCAsptME7zsZvg8wRIumzD7cQJn0WEoNcLzt4y7H2TClWz9uwFD86NjR1h8x7RYzVAwqZKs7tNAK4wev7McaYi3V4pefR3sjDkcv8ShaxskppARr5K/XuZHi8Pk9oPDcobrcwvHaF9UMFf244EMG/cuu1wQTmp9nbCQGYJYrXuHE8W1oHM4XEMa6/Pgas5UXgx/ph/nQVU1LqE+Ew0XQYiCy85mylYRLFZJpjo7FuNWGxhS8muTRaohBGU5rvC/bIlSwt84ywX2T4lerCPHW72qmif4oyrV1pXwAXFIUy1SM/0xXudcMBkRtFOqik3EpIxJvnYaR4PobBxRagkkjTspPWhM1g014Z74ykCb7fuIU0BlKPiy5g6WALXYl2DXS6Tox72KkX0hjQmMdeHLbjRFw7NwXeCWPRzfABsrFmoYWAue4DrCThPfF2Za8PLNHHzjuujatstV/3BsYBuJneflVO4+dkXWePXVt9eydas1W0dzK9M0eG1bBZKKb1VCxLAXDhzv82hEKVDgdKEOefU/6NKEZJ6lmRDkS5bflT2Pr13NEYAvCFIaET02auUrt9a0LdmkFZlWo/1VVHDjxAT6uTiCwQwGNsRGbobleveL+bKYyv6QZLJUt6Aezb1pQJnvSgl+u03fFFX6dVEX4fiFR0euWpp1gwAAnxoKu9YaXm1/xFh/wDTL37aIQBcywAAAAASUVORK5CYII="
+     x="0"
+     y="48" />
+</svg>

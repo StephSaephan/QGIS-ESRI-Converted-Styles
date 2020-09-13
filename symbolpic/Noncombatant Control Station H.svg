@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg13"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 1816.8403,1817.3195   L 2232.4953,1817.3195  "
+     style="fill:none;stroke:#ff0000;stroke-width:10.649107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 1816.8403,2030.4905   L 2232.4953,2030.4905  "
+     style="fill:none;stroke:#ff0000;stroke-width:10.649107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 1934.8113,1977.2072   L 1934.8113,1878.0043   L 1954.2969,1878.0043   L 1994.8919,1944.2403   L 1994.8919,1878.0043   L 2013.5089,1878.0043   L 2013.5089,1977.2072   L 1993.4191,1977.2072   L 1953.4283,1912.5195   L 1953.4283,1977.2072   z "
+     style="fill:#ff0000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path11"
+     d="  M 2098.2108,1940.7283   L 2117.6209,1946.8837   C 2114.6377,1957.7216 2109.6907,1965.7651 2102.7801,1971.0141   C 2095.8318,1976.2631 2087.0708,1978.8688 2076.4217,1978.8688   C 2063.2425,1978.8688 2052.4423,1974.375 2043.9457,1965.3874   C 2035.4491,1956.3999 2031.2197,1944.0892 2031.2197,1928.4932   C 2031.2197,1911.9909 2035.4869,1899.1515 2044.0212,1890.0129   C 2052.5556,1880.9121 2063.7334,1876.3428 2077.6301,1876.3428   C 2089.752,1876.3428 2099.6081,1879.9303 2107.1984,1887.0674   C 2111.6922,1891.3346 2115.0908,1897.4144 2117.3566,1905.3446   L 2097.5311,1910.1027   C 2096.3605,1904.9292 2093.9059,1900.8886 2090.1674,1897.9053   C 2086.4666,1894.9221 2081.9351,1893.4493 2076.6105,1893.4493   C 2069.2846,1893.4493 2063.318,1896.0927 2058.711,1901.3418   C 2054.1417,1906.6285 2051.8759,1915.2007 2051.8759,1926.9827   C 2051.8759,1939.5199 2054.1039,1948.4697 2058.6354,1953.7943   C 2063.1292,1959.1188 2068.9824,1961.7622 2076.2329,1961.7622   C 2081.5197,1961.7622 2086.1268,1960.0629 2089.9408,1956.702   C 2093.7926,1953.3034 2096.5493,1947.9788 2098.2108,1940.7283   z "
+     style="fill:#ff0000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+</svg>

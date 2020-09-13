@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 1859.4259,1883.6585   L 2140.2247,1883.6585   L 2140.2247,2165.3376   L 1859.4259,2165.3376   z "
+     style="fill:#aaffaa;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:10.62747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 2095.1522,2057.4066   C 2093.8709,2057.142 2088.6325,2059.1834 2079.4748,2063.5309   C 2073.5958,2066.1016 2066.8123,2070.0332 2059.162,2075.4014   C 2031.0859,2094.0767 2011.3007,2119.2543 1999.8441,2150.9342   C 1999.3165,2150.9342 1998.5628,2150.2915 1997.5453,2149.0062   C 1993.1737,2135.2076 1985.4104,2121.4091 1974.1799,2107.6106   C 1962.4219,2092.7913 1948.8926,2080.505 1933.592,2070.8271   C 1926.4317,2066.215 1916.5956,2061.6029 1904.0838,2057.0285   C 1903.8954,2056.4993 1903.8954,2056.1212 1904.0838,2055.8566   C 1907.4002,2054.3445 1911.8849,2052.4164 1917.5001,2050.1104   C 1932.0469,2045.2336 1947.5359,2034.1192 1964.0047,2016.7671   C 1980.4735,1999.3771 1991.2517,1983.0457 1996.377,1967.6972   C 1997.1307,1965.6558 1998.299,1963.5766 1999.8065,1961.5351   C 2004.668,1976.6568 2013.8634,1992.3456 2027.3927,2008.7148   C 2041.6757,2026.3315 2056.3732,2038.8447 2071.41,2046.2544   C 2074.7264,2047.8043 2080.1155,2050.2238 2087.5019,2053.5506   C 2089.8008,2053.8152 2092.3257,2055.1005 2095.1522,2057.4066   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path9"
+     d="  M 1983.9406,1955.1462   L 1983.9406,1915.4518   L 1991.7039,1915.4518   L 2007.909,1941.9526   L 2007.909,1915.4518   L 2015.3331,1915.4518   L 2015.3331,1955.1462   L 2007.3437,1955.1462   L 1991.3648,1929.2503   L 1991.3648,1955.1462   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+</svg>

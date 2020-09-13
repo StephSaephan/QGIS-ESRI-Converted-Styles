@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg19"
+   height="116.73mm"
+   width="116.73mm"
+   version="1.0">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156   z "
+     style="fill:#ff8080;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 220.57831,386.49156   L 220.57831,386.49156   L 386.49156,220.57831   L 220.57831,54.665059   L 54.665059,220.57831   L 220.57831,386.49156  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 206.95201,166.75241   L 206.95201,122.11727   L 212.8261,122.11727   L 212.8261,144.25502   L 235.00381,122.11727   L 242.99578,122.11727   L 224.29458,140.17911   L 243.83494,166.75241   L 236.04277,166.75241   L 220.13875,144.13514   L 212.8261,151.28795   L 212.8261,166.75241   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path11"
+     d="  M 239.75903,201.39759   C 239.75903,212.0269 231.20763,220.57831 220.57831,220.57831   C 209.98895,220.57831 201.39759,212.0269 201.39759,201.39759   C 201.39759,190.80823 209.98895,182.21686 220.57831,182.21686   C 231.20763,182.21686 239.75903,190.80823 239.75903,201.39759  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 220.57831,220.57831   L 220.57831,326.07228  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path15"
+     d="  M 191.80723,249.34939   L 249.34939,249.34939  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path17"
+     d="  M 156.60261,188.17088   L 167.51164,197.56144   L 161.27791,204.83413   L 150.32891,195.48353   L 156.60261,188.17088  z    M 174.78433,203.79518   L 185.69337,213.14578   L 179.45964,220.41847   L 168.5506,211.06787   L 174.78433,203.79518  z    M 193.00602,219.37951   L 203.91506,228.77008   L 197.68132,236.04277   L 186.73233,226.69217   L 193.00602,219.37951  z    M 211.18775,235.00381   L 222.13674,244.35441   L 215.86305,251.6271   L 204.95401,242.2765   L 211.18775,235.00381  z    M 229.40943,250.58815   L 240.31847,259.97871   L 234.08474,267.2514   L 223.1757,257.86084   L 229.40943,250.58815  z    M 247.59116,266.21245   L 258.54016,275.56305   L 252.26646,282.83574   L 241.35743,273.48514   L 247.59116,266.21245  z    M 265.81285,281.79678   L 276.72188,291.14739   L 270.48815,298.46004   L 259.57911,289.06947   L 265.81285,281.79678  z    M 283.99457,297.42108   L 290.86767,303.25522   L 284.59397,310.56787   L 277.76084,304.69377   L 283.99457,297.42108  z   "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:0.95903611px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg15"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 2018.6491,1893.7907   L 2125.0369,1893.7907   L 2125.0369,1947.1324   L 2018.6491,1947.1324   z "
+     style="fill:#000000;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 1981.453,2187.1891   C 1981.453,2309.9016 2162.233,2309.9016 2162.233,2187.1891   C 2284.562,2187.1891 2284.562,2005.8424 2162.233,2005.8424   C 2162.233,1883.1299 1981.453,1883.1299 1981.453,2005.8424   C 1859.124,2005.8424 1859.124,2187.1891 1981.453,2187.1891   z "
+     style="fill:#ffff80;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:10.62747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 2071.8242,2096.5347   L 2023.9629,2011.1728   C 2023.9629,1979.1526 2119.6855,1979.1526 2119.6855,2011.1728   z "
+     style="fill:none;stroke:#000000;stroke-width:10.62747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 2071.8242,2096.5347   L 2169.4688,2097.631   C 2197.0927,2113.6222 2149.2313,2196.7914 2121.6075,2180.7624   z "
+     style="fill:none;stroke:#000000;stroke-width:10.62747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 2071.8242,2096.5347   L 2022.0786,2180.7624   C 1994.4547,2196.7914 1946.5934,2113.6222 1974.2173,2097.631   z "
+     style="fill:none;stroke:#000000;stroke-width:10.62747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

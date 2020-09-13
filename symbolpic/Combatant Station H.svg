@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg13"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 2043.4728,2216.7956   L 2227.8685,2032.4377   L 2043.4728,1848.042   L 1859.1148,2032.4377   z "
+     style="fill:#ff8080;fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:10.649107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 1971.5724,1983.988   L 2114.278,1983.988   L 2114.278,2079.7545   L 1971.5724,2079.7545   z "
+     style="fill:none;stroke:#000000;stroke-width:10.649107px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 2043.7371,1967.0325   L 2043.2084,2097.8051  "
+     style="fill:none;stroke:#000000;stroke-width:10.649107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 2122.0949,2104.3758   C 2079.2341,2147.3121 2007.5603,2149.9177 1962.0184,2110.1535   C 1916.5143,2070.427 1914.3618,2003.3981 1957.2225,1960.4618   C 2000.0833,1917.5255 2071.7571,1914.9199 2117.299,1954.6841   C 2119.1116,1956.2701 2120.8865,1957.9317 2122.6236,1959.6688  "
+     style="fill:none;stroke:#000000;stroke-width:11.3666px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:282;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

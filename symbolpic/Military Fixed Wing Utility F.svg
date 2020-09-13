@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   height="125.53mm"
+   width="95.75mm"
+   version="1.0">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 307.53092,420.05783   C 307.53092,54.665059 54.345381,54.665059 54.345381,420.05783   z "
+     style="fill:#80e0ff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 307.53092,420.05783   C 307.53092,54.665059 54.345381,54.665059 54.345381,420.05783  "
+     style="fill:none;stroke:#000000;stroke-width:9.5903616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 219.33956,217.14176   L 232.96586,217.14176   L 232.96586,276.64196   C 232.96586,286.99156 231.80702,295.22329 229.44939,301.29718   C 227.13172,307.41104 222.89598,312.36606 216.78213,316.16224   C 210.66827,319.99839 202.6763,321.8765 192.7263,321.8765   C 183.09598,321.8765 175.18393,320.23815 169.07008,316.92148   C 162.91626,313.60481 158.56064,308.76967 155.92329,302.45602   C 153.28594,296.18233 151.96727,287.551 151.96727,276.64196   L 151.96727,217.14176   L 165.59357,217.14176   L 165.59357,276.602   C 165.59357,285.55301 166.43273,292.14638 168.11104,296.38212   C 169.78935,300.61787 172.6265,303.85461 176.66245,306.17228   C 180.73835,308.45 185.69337,309.60883 191.52751,309.60883   C 201.55743,309.60883 208.71024,307.33112 212.94598,302.7757   C 217.22168,298.26024 219.33956,289.50903 219.33956,276.602   z "
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+</svg>

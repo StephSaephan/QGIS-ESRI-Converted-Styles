@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg15"
+   height="112.9mm"
+   width="112.9mm"
+   version="1.0">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 391.92062,391.38808   L 541.15652,391.38808   L 541.15652,583.2682   L 391.92062,583.2682   L 391.92062,391.38808   z "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path7"
+     d="  M 391.92062,584.36358   L 466.51969,684.53407   L 541.15652,584.36358  "
+     style="fill:none;stroke:#ff0000;stroke-width:5.3258066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path9"
+     d="  M 396.98203,455.3733   L 396.98203,409.59403   L 430.07002,409.59403   L 430.07002,414.99538   L 403.02549,414.99538   L 403.02549,429.00867   L 428.37029,429.00867   L 428.37029,434.37225   L 403.02549,434.37225   L 403.02549,449.97195   L 431.12762,449.97195   L 431.12762,455.3733   L 396.98203,455.3733   z "
+     style="fill:#ff0000;fill-rule:nonzero;fill-opacity:1;stroke:#ff0000;stroke-width:1.0576069px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path11"
+     d="  M 439.58848,455.3733   L 439.58848,409.59403   L 456.85014,409.59403   C 459.87187,409.59403 462.21371,409.70734 463.80012,410.00951   C 466.06642,410.38723 467.95501,411.10489 469.46588,412.1625   C 470.97674,413.22011 472.22321,414.6932 473.12973,416.58179   C 474.07402,418.47037 474.52728,420.54781 474.52728,422.81411   C 474.52728,426.7046 473.28082,429.99073 470.78788,432.71029   C 468.33273,435.39208 463.8379,436.75186 457.37894,436.75186   L 445.63195,436.75186   L 445.63195,455.3733   L 439.58848,455.3733   z  M 445.63195,431.35051   L 457.45448,431.35051   C 461.38274,431.35051 464.17784,430.63285 465.80202,429.15975   C 467.46398,427.68666 468.25718,425.64699 468.25718,423.00297   C 468.25718,421.07662 467.80392,419.45243 466.82186,418.09265   C 465.83979,416.73287 464.59333,415.82635 463.00692,415.37309   C 461.98708,415.10869 460.0985,414.99538 457.34117,414.99538   L 445.63195,414.99538   L 445.63195,431.35051   z "
+     style="fill:#ff0000;fill-rule:nonzero;fill-opacity:1;stroke:#ff0000;stroke-width:1.0576069px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path13"
+     d="  M 490.27807,455.3733   L 478.15336,409.59403   L 484.34792,409.59403   L 491.33568,439.58474   C 492.09111,442.71979 492.73323,445.85484 493.26203,448.95211   C 494.43296,444.07957 495.11285,441.24669 495.3017,440.49126   L 504.02696,409.59403   L 511.35467,409.59403   L 517.88917,432.74806   C 519.55112,438.48936 520.72204,443.89071 521.47748,448.95211   C 522.04405,446.08147 522.79949,442.75756 523.74378,438.98039   L 530.9204,409.59403   L 537.00164,409.59403   L 524.46144,455.3733   L 518.60683,455.3733   L 508.97505,420.47227   C 508.14407,417.56385 507.69081,415.78858 507.53973,415.10869   C 507.0487,417.2239 506.59544,418.99917 506.17995,420.47227   L 496.47263,455.3733   L 490.27807,455.3733   z "
+     style="fill:#ff0000;fill-rule:nonzero;fill-opacity:1;stroke:#ff0000;stroke-width:1.0576069px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:112;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>
